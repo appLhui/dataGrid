@@ -1,0 +1,15 @@
+{
+    "name": "dataGrid",
+    "comName":"DataGrid",
+    "version": "1.0",
+    "desc": "",
+    "tag":"grid,数据展示",
+    "githubName":"appLhui",
+    "author": {
+        "name": "墨斐",
+        "email": "mofei.lh@alibaba-inc.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
